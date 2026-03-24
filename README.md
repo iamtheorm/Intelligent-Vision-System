@@ -1,4 +1,5 @@
 # Intelligent Vision System (All-in-One Computer Vision Toolkit)
+A modular computer vision toolkit demonstrating the complete pipeline from image processing to depth estimation using Python and OpenCV.
 
 ## Overview
 The Intelligent Vision System is a unified computer vision application designed to demonstrate the complete pipeline of vision-based processing. It integrates image processing, feature extraction, segmentation, object detection, classification, motion analysis, and depth estimation into a single modular system.
@@ -238,3 +239,7 @@ matplotlib
 
 ## Conclusion
 This project demonstrates a complete computer vision pipeline in a single integrated system. It combines foundational and advanced concepts, making it suitable for academic submission and practical understanding of computer vision.
+
+## Author
+Ritik Mishra  
+B.Tech CSE, VIT Bhopal  
