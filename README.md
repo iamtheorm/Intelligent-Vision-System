@@ -134,29 +134,26 @@ A simple UI can be built using Streamlit with sidebar navigation:
 
 ## Project Structure
 
+```
 intelligent-vision-system/
-│
 ├── app.py
 ├── modules/
-│ ├── preprocessing.py
-│ ├── feature_extraction.py
-│ ├── segmentation.py
-│ ├── detection.py
-│ ├── classification.py
-│ ├── motion.py
-│ ├── depth.py
-│ └── shape.py
-│
+│   ├── preprocessing.py
+│   ├── feature_extraction.py
+│   ├── segmentation.py
+│   ├── detection.py
+│   ├── classification.py
+│   ├── motion.py
+│   ├── depth.py
+│   └── shape.py
 ├── assets/
-│ ├── images/
-│ └── videos/
-│
+│   ├── images/
+│   └── videos/
 ├── models/
-│ └── knn_model.pkl
-│
+│   └── knn_model.pkl
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
